@@ -1,0 +1,16 @@
+#top {
+  margin-top: 100px;
+  background-color: lightgray;
+  text-align:center;
+  font-size: 36pt;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+#pic{
+
+}
+
+.row > div {
+    padding: 20px;
+}
